@@ -1,0 +1,15 @@
+D:\AMIKOM\Semester 2\Pemrograman\6\22.11.4856_Jenderal Nicolas Tampubolon\Pertemuan 6\bin\Debug\net6.0\Pertemuan 6.exe
+D:\AMIKOM\Semester 2\Pemrograman\6\22.11.4856_Jenderal Nicolas Tampubolon\Pertemuan 6\bin\Debug\net6.0\Pertemuan 6.deps.json
+D:\AMIKOM\Semester 2\Pemrograman\6\22.11.4856_Jenderal Nicolas Tampubolon\Pertemuan 6\bin\Debug\net6.0\Pertemuan 6.runtimeconfig.json
+D:\AMIKOM\Semester 2\Pemrograman\6\22.11.4856_Jenderal Nicolas Tampubolon\Pertemuan 6\bin\Debug\net6.0\Pertemuan 6.dll
+D:\AMIKOM\Semester 2\Pemrograman\6\22.11.4856_Jenderal Nicolas Tampubolon\Pertemuan 6\bin\Debug\net6.0\Pertemuan 6.pdb
+D:\AMIKOM\Semester 2\Pemrograman\6\22.11.4856_Jenderal Nicolas Tampubolon\Pertemuan 6\obj\Debug\net6.0\Pertemuan 6.csproj.AssemblyReference.cache
+D:\AMIKOM\Semester 2\Pemrograman\6\22.11.4856_Jenderal Nicolas Tampubolon\Pertemuan 6\obj\Debug\net6.0\Pertemuan 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMIKOM\Semester 2\Pemrograman\6\22.11.4856_Jenderal Nicolas Tampubolon\Pertemuan 6\obj\Debug\net6.0\Pertemuan 6.AssemblyInfoInputs.cache
+D:\AMIKOM\Semester 2\Pemrograman\6\22.11.4856_Jenderal Nicolas Tampubolon\Pertemuan 6\obj\Debug\net6.0\Pertemuan 6.AssemblyInfo.cs
+D:\AMIKOM\Semester 2\Pemrograman\6\22.11.4856_Jenderal Nicolas Tampubolon\Pertemuan 6\obj\Debug\net6.0\Pertemuan 6.csproj.CoreCompileInputs.cache
+D:\AMIKOM\Semester 2\Pemrograman\6\22.11.4856_Jenderal Nicolas Tampubolon\Pertemuan 6\obj\Debug\net6.0\Pertemuan 6.dll
+D:\AMIKOM\Semester 2\Pemrograman\6\22.11.4856_Jenderal Nicolas Tampubolon\Pertemuan 6\obj\Debug\net6.0\refint\Pertemuan 6.dll
+D:\AMIKOM\Semester 2\Pemrograman\6\22.11.4856_Jenderal Nicolas Tampubolon\Pertemuan 6\obj\Debug\net6.0\Pertemuan 6.pdb
+D:\AMIKOM\Semester 2\Pemrograman\6\22.11.4856_Jenderal Nicolas Tampubolon\Pertemuan 6\obj\Debug\net6.0\Pertemuan 6.genruntimeconfig.cache
+D:\AMIKOM\Semester 2\Pemrograman\6\22.11.4856_Jenderal Nicolas Tampubolon\Pertemuan 6\obj\Debug\net6.0\ref\Pertemuan 6.dll
